@@ -8,7 +8,7 @@
 
 I'm a web developer on an exciting journey of mastering NextJS, MongoDB, Express, and Mongoose. With a solid foundation in React, Tailwind CSS, and JavaScript, I bring creativity and functionality to every project I undertake. Apart from coding, I have a keen interest in mobile photography, capturing moments that inspire and tell unique stories. Join me on this incredible adventure as we create beautiful and innovative web applications together!
 
-<img align="right" alt="Codding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478g1dn6ric1wdun7mjfs5r5i7rf1lun6cmxufrt1c&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Codding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478g1dn6ric1wdun7mjfs5r5i7rf1lun6cmxufrt1c&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 - 🔭 I’m currently working on [#100daysofcode](https://twitter.com/Mark_McCoder)
