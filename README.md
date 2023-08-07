@@ -39,9 +39,9 @@ I'm a web developer on an exciting journey of mastering NextJS, MongoDB, Express
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-### Badges
+<!-- ### Badges
 
-<a href="https://github.com/Mark-Muchiri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Muchiri&langs_count=10&title_color=facc15&text_color=3382ed&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Mark-Muchiri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Muchiri&langs_count=10&title_color=facc15&text_color=3382ed&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 ### Socials
 
