@@ -1,6 +1,7 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
+<div align="center">
+  <img height="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+</div>
 
----
 ###
 
 <h1 align="center">Hi 👋, I'm Mark</h1>
@@ -21,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  />
 
-- 👨🏾‍💻 All of my projects are available at [https://github.com/Mark-Muchiri](https://github.com/Mark-Muchiri)
+- 👨‍💻 All of my projects are available at [https://github.com/Mark-Muchiri](https://github.com/Mark-Muchiri)
 
 - 💬 Ask me about **React, Tailwind CSS, JavaScript**
 
@@ -56,6 +57,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
+### Socials
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"  height="40" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  height="40" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"  height="40" />
+
+
 ###
 
 <h3 align="center">🔥   My Stats   🔥</h3>
@@ -67,16 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mark-Muchiri&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Mark-Muchiri&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=20&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
 </div>
-
-
-### Socials
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"  height="40" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  height="40" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"  height="40" />
-
 
 ###
 
