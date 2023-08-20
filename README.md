@@ -11,15 +11,13 @@
 
 ###
 
-<p align="center">I'm a web developer on an exciting journey of mastering NextJS, MongoDB, Express, and Mongoose. With a solid foundation in React, Tailwind CSS, and JavaScript, I bring creativity and functionality to every project I undertake. Apart from coding, I have a keen interest in mobile photography, capturing moments that inspire and tell unique stories. Join me on this incredible adventure as we create beautiful and innovative web applications together!</p>
+<p align="center">I'm a web developer on an exciting journey of mastering NextJS, MongoDB, Express, and Mongoose. With a solid foundation in React, Tailwind CSS, and JavaScript, I bring creativity and functionality to every project I undertake. Apart from coding, I have a keen interest in mobile photography, capturing moments that inspire and tell unique stories. Join me on this incredible adventure as we create beautiful and innovative web applications together!!</p>
 
 ###
 
 - 🔭 I’m currently working on [#100daysofcode](https://twitter.com/Mark_McCoder)
 
-- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  />
+- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  />
 
 - 👨🏾‍💻 All of my projects are available at [https://github.com/Mark-Muchiri](https://github.com/Mark-Muchiri)
 
@@ -71,11 +69,7 @@
 
 ### Socials
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"  height="40" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  height="40" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"  height="40" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"  height="40" /> <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  height="40" /> <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"  height="40" />
 
 
 ###
