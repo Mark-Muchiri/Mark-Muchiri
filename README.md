@@ -13,11 +13,7 @@
 
 ###
 
-
 <img align="right" src="./images/image_processing20210831-24858-1um8e5i.gif" height="200" />
-
-
-
 
 <div align="left">
 
@@ -38,7 +34,6 @@
 </div>
 
 ###
-
 
 ###
 
@@ -63,8 +58,6 @@
   <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 
 </div>
-
-
 
 ###
 
@@ -92,7 +85,7 @@
 ###
 
 <!--<img src="https://raw.githubusercontent.com/Mark-Muchiri/Mark-Muchiri/output/snake.svg" alt="Snake animation" />-->
-[Snake animation](https://github.com/Mark-Muchiri/Mark-Muchiri/blob/output/github-contribution-grid-snake.svg)
+<!--[Snake animation](https://github.com/Mark-Muchiri/Mark-Muchiri/blob/output/github-contribution-grid-snake.svg)-->
 
 ###
 
