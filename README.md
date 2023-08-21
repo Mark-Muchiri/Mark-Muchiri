@@ -47,13 +47,11 @@
 
 ###
 
-<div align="right">
 
-### Socials
+<h3 align="right">Socials</h3>
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"  height="40" /> <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  height="40" /> <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"  height="40" />
+<img align="right" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"  height="40" /> <img align="right" width="12" /> <img align="right" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  height="40" /> <img align="right" width="12" /> <img align="right" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"  height="40" />
 
-</div>
 
 
 
