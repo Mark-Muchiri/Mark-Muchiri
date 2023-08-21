@@ -18,9 +18,14 @@
 
 ###
 
+<div style="position:absolute; right: 22rem;">
+<img src="./images/image_processing20210831-24858-1um8e5i.gif" height="200" />
+</div>
+
 - 🔭 I’m currently working on [#100daysofcode](https://twitter.com/Mark_McCoder)
 
 - 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" style="padding-left:10;" alt="nextjs logo"  />
+
 
 - 👨🏾‍💻 All of my projects are available at [https://github.com/Mark-Muchiri](https://github.com/Mark-Muchiri)
 
