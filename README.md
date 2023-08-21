@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" src="./images/image_processing20210831-24858-1um8e5i.gif" height="200" />
+<img align="right" src="./images/cpu-processing.gif" height="200" />
 
 <div align="left">
 
