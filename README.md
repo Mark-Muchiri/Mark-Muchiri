@@ -18,9 +18,9 @@
 
 ###
 
-<div style="position:absolute; right: 26rem;">
-<img align="right" src="./images/image_processing20210831-24858-1um8e5i.gif" height="200" />
-</div>
+
+<img align="right" style="position:absolute; right: 26rem;" src="./images/image_processing20210831-24858-1um8e5i.gif" height="200" />
+
 
 - 🔭 I’m currently working on [#100daysofcode](https://twitter.com/Mark_McCoder)
 
