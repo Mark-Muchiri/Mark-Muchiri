@@ -89,14 +89,10 @@
 
 </div>
 
-
-
-
-
 ###
 
-<img src="https://raw.githubusercontent.com/Mark-Muchiri/Mark-Muchiri/output/snake.svg" alt="Snake animation" />
-<!--[Snake animation](https://github.com/Mark-Muchiri/Mark-Muchiri/blob/output/github-contribution-grid-snake.svg)-->
+<!--<img src="https://raw.githubusercontent.com/Mark-Muchiri/Mark-Muchiri/output/snake.svg" alt="Snake animation" />-->
+[Snake animation](https://github.com/Mark-Muchiri/Mark-Muchiri/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
