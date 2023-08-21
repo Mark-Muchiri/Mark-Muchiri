@@ -19,7 +19,7 @@
 ###
 
 
-<img align="right" style="position:absolute; right: 26rem;" src="./images/image_processing20210831-24858-1um8e5i.gif" height="200" />
+<img align="right" src="./images/image_processing20210831-24858-1um8e5i.gif" height="200" />
 
 
 
@@ -44,11 +44,21 @@
 
 ###
 
-<h3 align="left">Language and tools</h3>
 
 ###
 
+<div align="right">
+
+### Socials
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"  height="40" /> <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  height="40" /> <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"  height="40" />
+
+</div>
+
+
+
 <div align="left">
+  <h3 align="left">Language and tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -65,7 +75,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
+
+  
 </div>
+
+
 
 ###
 
@@ -79,10 +94,6 @@
   <img src="https://streak-stats.demolab.com?user=Mark-Muchiri&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=20&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
-
-### Socials
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"  height="40" /> <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  height="40" /> <img width="12" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"  height="40" />
 
 
 ###
